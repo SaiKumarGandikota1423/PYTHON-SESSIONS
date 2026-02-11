@@ -25,11 +25,11 @@ print("hello world") #this line of code prints hello world
 
 
 # Boolean datatype
-a = True # true is not 
-print(a)
+# a = True # true is not 
+# print(a)
 
-b = False
-print(b)
+# b = False
+# print(b)
 
 
 # string datatype
@@ -40,5 +40,5 @@ b = 'Hello World'
 print(b)
 print(type(b))
 
-c = 'Today's weather is nice'
+c = "Today's weather is nice"
 print(c)
