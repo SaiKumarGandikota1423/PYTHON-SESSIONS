@@ -39,3 +39,6 @@ print(type(a))
 b = 'Hello World'
 print(b)
 print(type(b))
+
+c = 'Today's weather is nice'
+print(c)
