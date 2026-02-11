@@ -33,12 +33,15 @@ print("hello world") #this line of code prints hello world
 
 
 # string datatype
-a = '123'
-print(type(a))
+# a = '123'
+# print(type(a))
 
-b = 'Hello World'
-print(b)
-print(type(b))
+# b = 'Hello World'
+# print(b)
+# print(type(b))
 
-c = "Today's weather is nice"
-print(c)
+# c = "Today's weather is nice"
+# print(c)
+
+a = "This is a multiline"
+print(a)
